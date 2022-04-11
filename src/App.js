@@ -1,5 +1,5 @@
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
-import Form from "./Components/Form"
+import Form from "./Components/Form1"
 function App() {
   return (
     <>
